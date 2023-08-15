@@ -1,4 +1,4 @@
-////staticº¯ÊýÔËÓÃ
+////static函数运用
 // 
 // 
 //#define _CRT_SECURE_NO_WARNINGS 1
