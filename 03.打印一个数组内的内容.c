@@ -1,4 +1,4 @@
-////打印一个数组内的内容
+////麓貌脫隆脪禄赂枚脢媒脳茅脛脷碌脛脛脷脠脻
 //
 //
 //#define _CRT_SECURE_NO_WARNINGS 1
