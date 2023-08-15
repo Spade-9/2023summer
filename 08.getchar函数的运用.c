@@ -1,4 +1,4 @@
-////getcharº¯ÊıµÄÔËÓÃ
+////getcharå‡½æ•°çš„è¿ç”¨
 //
 //
 //
@@ -11,19 +11,19 @@
 //int main()
 //{
 //	char password[20] = { 0 };
-//	printf("ÇëÊäÈëÃÜÂë:");
+//	printf("è¯·è¾“å…¥å¯†ç :");
 //	scanf("%s", password);
 //	getchar();
-//	printf("ÇëÈ·ÈÏ(Y/N):");
+//	printf("è¯·ç¡®è®¤(Y/N):");
 //	int confirm = 0;
 //	confirm = getchar();
 //	if (confirm = 'Y')
 //	{
-//		printf("È·ÈÏ³É¹¦\n");
+//		printf("ç¡®è®¤æˆåŠŸ\n");
 //	}
 //	else
 //	{
-//		printf("È·ÈÏ·ÅÆú\n");
+//		printf("ç¡®è®¤æ”¾å¼ƒ\n");
 //	}
 //	return 0;
 //}
