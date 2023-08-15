@@ -21,6 +21,6 @@
 //			max = arr[i];
 //		}
 //	}
-//	printf("×î´óÖµÎª:%d\n", max);
+//	printf("最大值为:%d\n", max);
 //	return 0;
 //}
