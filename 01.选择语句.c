@@ -1,4 +1,4 @@
-////Ñ¡ÔñÓï¾ä
+////é€‰æ‹©è¯­å¥
 //
 //#define _CRT_SECURE_NO_WARNINGS
 //
@@ -7,13 +7,13 @@
 //
 //int main()
 //{
-//	printf("Äãà¾¼¾ÇÇÂğ£¿T/F£©:");
+//	printf("ä½ å—‘å­£ä¹”å—ï¼ŸT/Fï¼‰:");
 //	char answer = 'T';
 //	scanf("%c", &answer);
 //	if (answer == 'T')
-//		printf("ÓĞÑÛ¹â£¡\n");
+//		printf("æœ‰çœ¼å…‰ï¼\n");
 //	if (answer == 'F')
-//		printf("Ã»Æ·µÄ¶«Î÷£¡\n");
+//		printf("æ²¡å“çš„ä¸œè¥¿ï¼\n");
 //
 //	return 0;
 //}
