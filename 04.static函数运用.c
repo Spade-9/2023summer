@@ -1,4 +1,4 @@
-////staticº¯ÊıÔËÓÃ
+////staticÂºÂ¯ÃŠÃ½Ã”Ã‹Ã“Ãƒ
 // 
 // 
 //#define _CRT_SECURE_NO_WARNINGS 1
