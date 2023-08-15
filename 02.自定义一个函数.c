@@ -1,4 +1,4 @@
-////×Ô¶¨ÒåÒ»¸öº¯Êý
+////自定义一个函数
 //
 //
 //#define _CRT_SECURE_NO_WARNINGS 1
