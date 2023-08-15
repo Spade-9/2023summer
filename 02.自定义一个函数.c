@@ -1,4 +1,4 @@
-////自定义一个函数
+////脳脭露篓脪氓脪禄赂枚潞炉脢媒
 //
 //
 //#define _CRT_SECURE_NO_WARNINGS 1
