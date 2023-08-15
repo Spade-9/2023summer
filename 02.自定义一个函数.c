@@ -25,3 +25,23 @@
 //
 //	return 0;
 //}
+
+//void Swap(int x,int y)
+//{
+//	int tmp = 0;
+//	tmp = x;
+//	x = y;
+//	y = tmp;
+//
+//}
+//
+//
+//int main()
+//{
+//	int a = 9;
+//	int b = 99;
+//	printf("a=%d b=%d\n", a, b);
+//	Swap(a, b);
+//	printf("a=%d b=%d\n", a, b);
+//	return 0;
+//}
