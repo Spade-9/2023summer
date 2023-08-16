@@ -6,7 +6,7 @@
 //#include <stdlib.h>
 //#include <math.h>
 //
-////ÅĞ¶ÏÈòÄêµÄº¯Êı
+////åˆ¤æ–­é—°å¹´çš„å‡½æ•°
 //
 //int is_leap_year(int y)
 //{
